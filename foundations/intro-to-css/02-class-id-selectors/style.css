@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.common {
+    background-color: rgb(255, 192, 190);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(41, 41, 255);
+    font-size: 36px;
+}
+
+#third {
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgb(80, 255, 80);
+    font-size: 25px;
+    font-weight: bold;
+}
